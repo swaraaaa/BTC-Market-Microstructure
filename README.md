@@ -88,7 +88,6 @@ BTC-Market-Microstructure/
 ---
 
 ## 🚀 How to Run
-## 🚀 How to Run
 
 1. Clone the repo
 2. Install required R packages:
