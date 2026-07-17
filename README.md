@@ -88,13 +88,17 @@ BTC-Market-Microstructure/
 ---
 
 ## 🚀 How to Run
+## 🚀 How to Run
 
 1. Clone the repo
 2. Install required R packages:
 ```r
 install.packages(c("xts", "highfrequency", "data.table", "dplyr", "ggplot2", "zoo", "tidyr"))
 ```
-3. Place `Final_Dataset.csv` (BTC/USD tick data) in the working directory
+3. Obtain BTC/USD tick data from BitMex's historical data API:
+   - Documentation: https://www.bitmex.com/app/apiOverview
+   - Or use the `bitmex` Python package to pull tick-level data for April 17, 2017
+   - Save the file as `Final_Dataset.csv` in the working directory
 4. Run `analysis.R`
 
 ---
