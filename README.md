@@ -2,7 +2,7 @@
 
 **Market Microstructure · Realized Volatility · Liquidity Analysis · High-Frequency Data · R**
 
-> FE-570 Final Project — MS Financial Engineering, Stevens Institute of Technology (Dec 2024)
+> FE-570 Final Project — MS Financial Engineering, Stevens Institute of Technology 
 
 > Author: Swara Dave 
 
